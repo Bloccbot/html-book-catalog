@@ -1,0 +1,66 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Book Catalog</title>
+</head>
+<table>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Author</th>
+      <th>Genre</th>
+      <th>Publication Year</th>
+    </tr>
+    <tbody>
+      <tr>
+        <td>Robotics, Vision and Control: Fundamental Algorithms in MATLAB</td>
+        <td>Peter Corke</td>
+        <td>Robotics, Computre Vision</td>
+        <td>2017</td>
+      </tr>
+      <tr>
+        <td>Artificial Intelligence for Robotics: Build Intelligent Robots That Perform Human Tasks Using AI Techniques</td>
+        <td>Francis X. Govers</td>
+        <td>Artificial Intelligence</td>
+        <td>2018</td>
+      </tr>
+      <tr>
+        <td>Programming Robots with ROS: A Practical Introduction to the Robot Operating System</td>
+        <td>Morgan Quigley, Brian Gerkey, William D. Smart</td>
+        <td>Robotics</td>
+        <td>2015</td>
+      </tr>
+      <tr>
+        <td>Machine Learning for Robotics</td>
+        <td>Aaron D. Ames, Joel Burdick</td>
+        <td>Robotics, Machine Learning</td>
+        <td>2019</td>
+      </tr>
+      <tr>
+        <td>Hands-On Robotics with Python: Build Real-World Applications Using Raspberry Pi and Python</td>
+        <td>Ashwin Pajankar</td>
+        <td>Python Programming</td>
+        <td>2021</td>
+      </tr>
+    </tbody>
+    <tfoot>
+      <tr>
+        <td colspan="4">Total Books: 5</td>
+      </tr>
+    </tfoot>
+
+  </thead>
+</table>
+
+<body>
+</body>
+
+</html>
+
+** end of index.html **
+
